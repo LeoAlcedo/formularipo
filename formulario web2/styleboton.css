@@ -1,0 +1,36 @@
+*{
+    margin:0;
+}
+page{
+    border: 3px solid green;
+    border-radius:20px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px;
+}
+h1{
+    text-align:center;
+}
+p{
+    text-align: justify;
+}
+boton{
+    display: inline-block;
+    margin: 15px 10px;
+    padding: 8px;
+    border-radius: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: green;
+    color:#fff;
+
+}
+boton:hover{
+    opacity: 0.8;
+    color: black;
+    background-color: orange;
+
+}
+boton:active{
+    transform: scale();
+}

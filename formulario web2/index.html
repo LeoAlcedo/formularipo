@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css" class="re">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Victor</title>
+
+
+</head>
+<body>
+    
+  <form action=""  class="mostrar" id="formulario">
+
+    <input type="email" id ="txtEmail"   placeholder="Ingresar tu email"> 
+    <br> <br>
+    <input type="password" id="txtPassword" placeholder="Ingresar tu contraseña">
+    <br><br>
+    <input type="button" value="Registrar"  id="btnRegistrar">
+    <br><br>
+    <input type="button" value="Ingresar"   id="btnIngresar">
+    <br><br>
+    <img src="unnamed.png" alt="" height="30px" id="btnGoogle">
+    <br><br>
+    <img src="facebook.png" alt="" height="30px" id="btnfacebook">
+
+  </form>
+ 
+  <div class="contenidoDeLaWeb ocultar" id= "contenidoDeLaWeb">
+    <input type="button" value="Cerrar sesión"   id="btnCerrarSesion"  >
+       <h3>Aqui veras el contenido de la web </h3>
+       <div class="resultado" id="resultado">
+       </div>
+
+
+       <div id="comentarios">
+         <input type="text" placeholder="Escribe el titulo"   id="txtTitulo"  >
+         <br> <br>   
+         <input type="text" placeholder="Escribe la descripción"
+         id="txtDescripcion" >
+         <br> <br>
+         <input type="button" value="Publicar"   id="btnPublicar"  >
+          
+         <ul id="imprimirComentariosEnPantalla">
+               
+
+          </ul>
+      </div>  
+
+ </div>
+ 
+   <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+   <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+   <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js"> </script>
+    <script src="main.js "> </script>
+</body>
+</html>

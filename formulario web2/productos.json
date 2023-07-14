@@ -1,0 +1,200 @@
+[
+    {
+        "marca": " Samsung",
+        "precio": 87.00,
+        "img": "https://images.samsung.com/is/image/samsung/p6pim/pe/2302/gallery/pe-galaxy-s23-s916-sm-s916blimltp-thumb-534844437?$344_344_PNG$",
+        "Conexion": "Si"
+    },
+
+{
+        "marca": "Xiaomi",
+        "precio": 492,
+        "img": "https://xiaomiperu.com/media/catalog/product/cache/66ad064de80d297439af31f969d2f1bd/r/e/redmi-10-2022_gris.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+{
+        "marca": "Motorola",
+        "precio": 800,
+        "img": "https://oechsle.vteximg.com.br/arquivos/ids/14944760-1000-1000/image-6810fc614fbe48de8073dae1bc9deb85.jpg?v=638204807484100000",
+        "Conexion Wi Fi": "Si"
+    },
+
+ {
+        "marca": "Huawei",
+        "precio": 700,
+        "img": "https://oechsle.vteximg.com.br/arquivos/ids/14200500-1500-1500/image-412480db6cf24a19b3f354dcb54ac21b.jpg?v=638152917305100000",
+        "Conexion": "Conexion Wi Fi: Si"
+    },
+
+{
+        "marca": "Honor",
+        "precio": 600,
+        "img": "https://www.honorstore.ec/wp-content/uploads/2023/03/honor-magic5-lite-green.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+{
+        "marca": "Realme",
+        "precio": 1000,
+        "img": "https://smartphonesperu.pe/wp-content/uploads/2022/10/SMARTPHONES-PERU-VENTA-DE-EQUIPOS-Y-SERVICIO-TECNICO_0000_0000_REALME-REPARACION-7.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Apple",
+        "precio": 820,
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAU5HLPZR5EK7B35RXAT5IIBEI.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Xiaomi",
+        "precio": 600,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/18829590?wid=800&hei=800&qlt=70",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+
+
+ {
+        "marca": "Xiaomi",
+        "precio": 800,
+        "img": "https://tecstore.pe/media/catalog/product/cache/47ecd4cc08c8424b72503bca4c60cb5e/1/6/1680781448_0213494.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+ {
+        "marca": "Realme",
+        "precio":920 ,
+        "img": "https://coolboxpe.vtexassets.com/arquivos/ids/188296/RMX3231AZ_2.jpg?v=637638777094300000",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Apple",
+        "precio":870 ,
+        "img": "https://equiposlibres.pe/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-space-black-220907_inline.jpg.large_2x-914x1280-1.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": " Apple",
+        "precio": 973,
+        "img": "https://oechsle.vteximg.com.br/arquivos/ids/14945715-800-800/image-321ea1ed905742799a6cb74bc27ce23e.jpg?v=638204820184900000",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "motorola",
+        "precio": 896,
+        "img": "https://mister-mango.omni.la/items_2/uid_commerces.1/uid_items_2.FDBO0IAPRDK1/1500x1500/6434132D7A7A6-Celular-Motorola-E22i--2-64gb--Gris.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "samsung",
+        "precio":769 ,
+        "img": "https://image-us.samsung.com/SamsungUS/home/mobile/galaxy-a32-5g/pdp/gallery-images/PDP-GALLERY-A32-black-lockup-1600x1200.jpg?$product-details-jpg$",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+
+ {
+        "marca": "samsung",
+        "precio": 828,
+        "img": "https://images.samsung.com/is/image/samsung/p6pim/pe/sm-m546bdbdpeo/gallery/pe-galaxy-m54-5g-sm-m546-sm-m546bdbdpeo-thumb-536141066?$344_344_PNG$",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+
+
+ {
+        "marca": "Honor",
+        "precio": 863,
+        "img": "https://pe.celulares.com/fotos/huawei-honor-x10-5g-86603-g-alt.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+
+
+ {
+        "marca": "Honor",
+        "precio": 963,
+        "img": "https://tecstore.pe/media/catalog/product/cache/7817b360d34280a121604a9eacb1f585/3/_/3_6_.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Honor",
+        "precio":666 ,
+        "img": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/honor-magic4-pro-5g-1672909402848-2920514.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "xiaomi",
+        "precio": 965,
+        "img": "https://xiaomitiendaperu.com/wp-content/uploads/2021/07/xiaomi_redmi_note_10s_xiaomitiendaperu_02.png",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+
+ {
+        "marca": "samsung",
+        "precio": 869,
+        "img": "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a736bzadgto/gallery/latin-galaxy-a73-5g-a736-sm-a736bzadgto-thumb-532536165?$344_344_PNG$",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Huawei",
+        "precio": 796,
+        "img": "https://ripleype.imgix.net/https%3A%2F%2Fstatic.sellercenter.pe%2Fimages%2Fproducts%2FZ42mJsfr9-4.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b99c60f7ce355f6020f139f1e56bbac9",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Realme",
+        "precio":967 ,
+        "img": "https://motonext.com.pe/531-large_default/oppo-realme-9i-128gb.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Apple",
+        "precio":967 ,
+        "img": "https://www.entel.pe/wp-content/uploads/2022/10/iphone_14_pro_back.jpg",
+        "Conexion Wi Fi": "Si"
+    },
+
+
+ {
+        "marca": "Apple",
+        "precio": 966,
+        "img": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1977%2FACCESORIOS%2FRELOJ%2FCELU176NEGRO-64GB_231008130506_16.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=9f26813a9dcc52a4d2598e86de0637cd",
+        "Conexion Wi Fi": "Si"
+    }
+]
